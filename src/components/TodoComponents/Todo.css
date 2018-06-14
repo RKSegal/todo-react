@@ -1,0 +1,33 @@
+.main {
+    width: 600px;
+    margin: auto auto;
+}
+.todo-header h1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 36px;
+}
+.Todo {
+    text-align: center;
+}
+#todo {
+    margin: auto;
+}
+ul {
+    list-style-type: none;
+}
+button {
+    padding: 5px;
+    border-radius: 5px;
+}
+button.todo-remove-btn  {
+    margin-left: 10px;
+}
+button.btn-add {
+
+}
+.red {
+    background-color:#E84F4F;
+}
+.blue {
+    background-color: #3A82E1;
+}
